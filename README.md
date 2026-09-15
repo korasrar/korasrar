@@ -70,12 +70,6 @@ Actuellement en troisième année de BUT Informatique, je cherche à approfondir
 	</a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/korasrar">
-		<img src="https://streak-stats.demolab.com?user=korasrar&hide_border=true&ring=2f6f6d&fire=1f6feb&currStreakLabel=2f6f6d&background=ffffff&sideLabels=444444&dates=444444" alt="Série de contributions GitHub de korasrar" />
-	</a>
-</p>
-
 ## Projets sélectionnés
 
 <table>
