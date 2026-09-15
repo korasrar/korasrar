@@ -53,7 +53,7 @@ Actuellement en troisième année de BUT Informatique, je cherche à approfondir
 			<h3>Database</h3>
 			<p>
 				<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" /></a>
-				<a href="https://neo4j.com/"><img src="https://skillicons.dev/icons?i=neo4j" width="44" alt="Neo4j" /></a>
+				<a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/neo4j-auto.svg" width="44" alt="Neo4j" /></a>
 			</p>
 		</td>
 	</tr>
