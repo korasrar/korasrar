@@ -1,13 +1,105 @@
-<h1 align="center">Hi 👋, I'm Célestin Maubert</h1>
-<h3 align="center">Développeur Informatique | IUT Orléans BUT2 Informatique</h3>
+# Bonjour, moi c'est Célestin Maubert 👋
 
-- 💬 Ask me about **whatever u want**
+### Étudiant en informatique · Développeur en devenir
 
-- 📫 How to reach me **celestin.maubert@gmail.com**
+Je construis des projets qui relient **algorithmique**, **développement logiciel** et **analyse de données**. J’aime comprendre comment les choses fonctionnent, transformer une idée en solution concrète et progresser au fil de projets exigeants.
 
-- ⚡ Fun fact **fluttershy lover**
+Actuellement en troisième année de BUT Informatique, je cherche à approfondir mes compétences en développement, en conception de bases de données et en résolution de problèmes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+	<a href="mailto:celestin.maubert@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact-2f6f6d?style=for-the-badge&logo=gmail&logoColor=white" alt="Me contacter par email" />
+	</a>
+	<a href="https://www.linkedin.com/in/celestin-maubert/">
+		<img src="https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn" />
+	</a>
+	<a href="https://github.com/korasrar?tab=repositories">
+		<img src="https://img.shields.io/badge/GitHub-Projets-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mon profil GitHub" />
+	</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korasrar&show_icons=true&locale=en" alt="korasrar" /></p>
+## Technologies
+
+<table align="center">
+	<tr>
+		<td width="25%" valign="top" align="center">
+			<h3>Front-end</h3>
+			<p>
+				<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="44" alt="Dart" /></a>
+				<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="44" alt="Vue" /></a>
+				<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="44" alt="JavaScript" /></a>
+				<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS" /></a>
+			</p>
+		</td>
+		<td width="25%" valign="top" align="center">
+			<h3>Back-end</h3>
+			<p>
+				<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /></a>
+				<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="44" alt="Java" /></a>
+				<a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" width="44" alt="C" /></a>
+			</p>
+		</td>
+		<td width="25%" valign="top" align="center">
+			<h3>Outils</h3>
+			<p>
+				<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code" /></a>
+				<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma" /></a>
+				<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /></a>
+				<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" /></a>
+				<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash" /></a>
+			</p>
+		</td>
+		<td width="25%" valign="top" align="center">
+			<h3>Database</h3>
+			<p>
+				<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL" /></a>
+				<a href="https://neo4j.com/"><img src="https://skillicons.dev/icons?i=neo4j" width="44" alt="Neo4j" /></a>
+			</p>
+		</td>
+	</tr>
+</table>
+
+## Statistiques GitHub
+
+<p align="center">
+	<a href="https://github.com/korasrar">
+		<img height="180" src="https://github-stats-extended.vercel.app/api?username=korasrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2f6f6d&icon_color=1f6feb&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de korasrar" />
+	</a>
+	<a href="https://github.com/korasrar">
+		<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=korasrar&layout=compact&langs_count=8&hide_border=true&title_color=2f6f6d&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés par korasrar" />
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/korasrar">
+		<img src="https://streak-stats.demolab.com?user=korasrar&hide_border=true&ring=2f6f6d&fire=1f6feb&currStreakLabel=2f6f6d&background=ffffff&sideLabels=444444&dates=444444" alt="Série de contributions GitHub de korasrar" />
+	</a>
+</p>
+
+## Projets sélectionnés
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>📱 SAE DevMobile</h3>
+			<p>Projet de développement mobile réalisé dans le cadre d'une SAE, de la conception à l'implémentation de l'application.</p>
+			<p>
+				<img src="https://skillicons.dev/icons?i=dart" width="36" alt="Dart" />
+				<img src="https://skillicons.dev/icons?i=python" width="36" alt="Python" />
+				<img src="https://skillicons.dev/icons?i=vue" width="36" alt="Vue" />
+				<img src="https://skillicons.dev/icons?i=javascript" width="36" alt="JavaScript" />
+				<img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS" />
+				<img src="https://skillicons.dev/icons?i=bash" width="36" alt="Shell" />
+			</p>
+			<a href="https://github.com/korasrar/sae_devmobile">Voir le projet →</a>
+		</td>
+		<td width="50%" valign="top">
+			<h3>🔐 SAE Crypto</h3>
+			<p>Projet consacré à l'étude et à la mise en œuvre de concepts liés à la cryptographie.</p>
+			<p>
+				<img src="https://skillicons.dev/icons?i=python" width="36" alt="Python" />
+			</p>
+			<a href="https://github.com/korasrar/sae_crypto">Voir le projet →</a>
+		</td>
+	</tr>
+</table>
