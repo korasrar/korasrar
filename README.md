@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Célestin Maubert 👋
+# Bonjour, moi c'est Célestin Maubert👋
 
 ### Étudiant en informatique · Développeur en devenir
 
@@ -8,13 +8,13 @@ Actuellement en troisième année de BUT Informatique, je cherche à approfondir
 
 <p align="left">
 	<a href="mailto:celestin.maubert@gmail.com">
-		<img src="https://img.shields.io/badge/Email-Contact-2f6f6d?style=for-the-badge&logo=gmail&logoColor=white" alt="Me contacter par email" />
+		<img src="https://img.shields.io/badge/Email-Contact-f472b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Me contacter par email" />
 	</a>
 	<a href="https://www.linkedin.com/in/celestin-maubert/">
-		<img src="https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn" />
+		<img src="https://img.shields.io/badge/LinkedIn-Connecter-ec4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil LinkedIn" />
 	</a>
 	<a href="https://github.com/korasrar?tab=repositories">
-		<img src="https://img.shields.io/badge/GitHub-Projets-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mon profil GitHub" />
+		<img src="https://img.shields.io/badge/GitHub-Projets-f9a8d4?style=for-the-badge&logo=github&logoColor=831843" alt="Mon profil GitHub" />
 	</a>
 </p>
 
@@ -63,10 +63,10 @@ Actuellement en troisième année de BUT Informatique, je cherche à approfondir
 
 <p align="center">
 	<a href="https://github.com/korasrar">
-		<img height="180" src="https://github-stats-extended.vercel.app/api?username=korasrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2f6f6d&icon_color=1f6feb&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de korasrar" />
+		<img height="180" src="https://github-stats-extended.vercel.app/api?username=korasrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ec4899&icon_color=f9a8d4&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de korasrar" />
 	</a>
 	<a href="https://github.com/korasrar">
-		<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=korasrar&layout=compact&langs_count=8&hide_border=true&title_color=2f6f6d&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés par korasrar" />
+		<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=korasrar&layout=compact&langs_count=8&hide_border=true&title_color=f472b6&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés par korasrar" />
 	</a>
 </p>
 
